@@ -154,7 +154,7 @@ with col_left:
     )
     fig_states.add_vline(x=0.5, line_dash="dash", line_color="red", line_width=2)
     fig_states.update_layout(height=650, showlegend=True)
-    st.plotly_chart(fig_states, use_container_width=True)
+    st.plotly_chart(st.plotly_chart(fig, width="stretch"))
 
 with col_right:
     st.subheader("🎲 Monte Carlo Distribution")
@@ -174,7 +174,7 @@ with col_right:
         yaxis_title="Frequency",
         height=300
     )
-    st.plotly_chart(fig_mc, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     # Pie chart
     fig_pie = go.Figure(go.Pie(
@@ -185,7 +185,7 @@ with col_right:
         textinfo='label+percent'
     ))
     fig_pie.update_layout(title="Election Outcome Probability", height=300)
-    st.plotly_chart(fig_pie, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 # ── Row 3: Zone Summary ───────────────────────────────────
 st.markdown("---")
@@ -206,7 +206,7 @@ fig_zone = px.bar(zone_summary, x='zone', y=['apc_states', 'opp_states'],
                           'variable': 'Party'},
                   title="Projected State Wins by Geopolitical Zone")
 fig_zone.update_layout(height=350)
-st.plotly_chart(fig_zone, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 # ── Data Table ────────────────────────────────────────────
 with st.expander("📋 View Full State Prediction Table"):
