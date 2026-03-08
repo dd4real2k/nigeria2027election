@@ -32,7 +32,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── Header ────────────────────────────────────────────────
-st.markdown('<p class="main-title">🗳️ Nigeria 2027 Presidential Election Predictor</p>',
+st.markdown('<p class="main-title">🗳️ Nigeria 2027 Presidential Election Prediction Dashboard</p>',
             unsafe_allow_html=True)
 st.markdown('<p class="subtitle">Data Science Portfolio Project | Le Wagon | Built with ML & Monte Carlo Simulation</p>',
             unsafe_allow_html=True)
