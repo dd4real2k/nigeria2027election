@@ -1,0 +1,38 @@
+state,zone,region,dominant_religion,dominant_ethnicity,population_2023_millions,literacy_rate_pct,urban_pct,poverty_rate_pct,security_risk_score,geopolitical_weight
+Abia,South-East,South,Christianity,Igbo,3.7,81.2,52.0,41.0,2,medium
+Adamawa,North-East,North,Mixed,Fulani/Mixed,4.2,38.9,27.0,72.0,8,medium
+Akwa Ibom,South-South,South,Christianity,Ibibio,5.5,72.4,43.0,39.0,3,high
+Anambra,South-East,South,Christianity,Igbo,6.0,82.7,67.0,24.0,3,high
+Bauchi,North-East,North,Islam,Hausa/Fulani,7.2,34.8,24.0,81.0,6,medium
+Bayelsa,South-South,South,Christianity,Ijaw,2.3,72.1,30.0,44.0,4,low
+Benue,North-Central,Middle Belt,Christianity,Tiv,6.0,52.3,28.0,68.0,7,medium
+Borno,North-East,North,Islam,Kanuri,5.8,24.2,35.0,82.0,9,medium
+Cross River,South-South,South,Christianity,Efik/Ejagham,4.0,67.9,42.0,47.0,3,medium
+Delta,South-South,South,Christianity,Urhobo/Ijaw,5.6,74.3,56.0,32.0,4,high
+Ebonyi,South-East,South,Christianity,Igbo,3.3,58.7,27.0,73.0,2,low
+Edo,South-South,South,Christianity,Edo/Bini,4.7,76.4,53.0,35.0,4,medium
+Ekiti,South-West,South,Christianity,Yoruba,3.3,72.9,47.0,26.0,2,low
+Enugu,South-East,South,Christianity,Igbo,5.1,78.2,48.0,30.0,3,medium
+FCT,North-Central,Middle Belt,Mixed,Mixed,3.8,83.1,93.0,19.0,3,high
+Gombe,North-East,North,Islam,Tangale/Tera,3.4,38.2,31.0,74.0,6,low
+Imo,South-East,South,Christianity,Igbo,5.9,82.0,63.0,27.0,4,medium
+Jigawa,North-West,North,Islam,Hausa,5.8,28.4,18.0,87.0,4,medium
+Kaduna,North-West,North,Mixed,Hausa/Mixed,9.0,56.3,42.0,61.0,8,high
+Kano,North-West,North,Islam,Hausa/Fulani,15.8,51.9,47.0,43.0,5,very high
+Katsina,North-West,North,Islam,Hausa/Fulani,9.1,38.9,22.0,67.0,7,high
+Kebbi,North-West,North,Islam,Hausa/Fulani,5.0,26.9,18.0,78.0,5,medium
+Kogi,North-Central,Middle Belt,Mixed,Igala/Yoruba,4.7,55.9,28.0,58.0,5,medium
+Kwara,North-Central,Middle Belt,Mixed,Yoruba/Nupe,3.3,56.4,38.0,49.0,3,medium
+Lagos,South-West,South,Christianity/Mixed,Yoruba/Mixed,16.0,92.4,100.0,4.0,4,very high
+Nasarawa,North-Central,Middle Belt,Mixed,Eggon/Tiv,2.8,46.3,27.0,64.0,6,low
+Niger,North-Central,Middle Belt,Islam,Nupe/Hausa,6.1,36.9,22.0,73.0,5,medium
+Ogun,South-West,South,Christianity,Yoruba,7.1,75.8,62.0,16.0,2,high
+Ondo,South-West,South,Christianity,Yoruba,5.0,72.8,47.0,23.0,3,medium
+Osun,South-West,South,Christianity,Yoruba,4.7,74.2,54.0,25.0,2,medium
+Oyo,South-West,South,Christianity/Mixed,Yoruba,8.8,72.3,64.0,22.0,3,high
+Plateau,North-Central,Middle Belt,Christianity,Birom/Berom,4.3,58.4,31.0,55.0,8,medium
+Rivers,South-South,South,Christianity,Ijaw/Kalabari,8.9,78.9,62.0,25.0,6,high
+Sokoto,North-West,North,Islam,Hausa/Fulani,6.6,20.4,14.0,87.0,6,medium
+Taraba,North-East,North,Mixed,Mumuye/Fulani,3.2,41.2,21.0,74.0,7,low
+Yobe,North-East,North,Islam,Kanuri/Hausa,3.3,22.8,18.0,83.0,7,low
+Zamfara,North-West,North,Islam,Hausa/Fulani,5.3,16.1,15.0,91.0,9,medium

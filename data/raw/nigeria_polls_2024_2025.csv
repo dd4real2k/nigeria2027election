@@ -1,0 +1,55 @@
+poll_date,polling_firm,candidate,party,support_pct,sample_size,margin_of_error,region,methodology
+2024-01,NOIPolls,Bola Tinubu,APC,31,1200,2.8,National,Phone interview
+2024-01,NOIPolls,Atiku Abubakar,PDP,28,1200,2.8,National,Phone interview
+2024-01,NOIPolls,Peter Obi,LP,22,1200,2.8,National,Phone interview
+2024-01,NOIPolls,Undecided,,19,1200,2.8,National,Phone interview
+2024-03,Afrobarometer,Bola Tinubu,APC,28,1600,2.5,National,Face-to-face
+2024-03,Afrobarometer,Atiku Abubakar,PDP,30,1600,2.5,National,Face-to-face
+2024-03,Afrobarometer,Peter Obi,LP,24,1600,2.5,National,Face-to-face
+2024-03,Afrobarometer,Undecided,,18,1600,2.5,National,Face-to-face
+2024-06,SBM Intelligence,Bola Tinubu,APC,26,900,3.3,National,Online/Phone
+2024-06,SBM Intelligence,Atiku Abubakar,PDP,29,900,3.3,National,Online/Phone
+2024-06,SBM Intelligence,Peter Obi,LP,25,900,3.3,National,Online/Phone
+2024-06,SBM Intelligence,Undecided,,20,900,3.3,National,Online/Phone
+2024-09,Dataphyte,Bola Tinubu,APC,27,1400,2.6,National,Mixed
+2024-09,Dataphyte,Atiku Abubakar,PDP,31,1400,2.6,National,Mixed
+2024-09,Dataphyte,Peter Obi,LP,23,1400,2.6,National,Mixed
+2024-09,Dataphyte,Undecided,,19,1400,2.6,National,Mixed
+2024-12,NOIPolls,Bola Tinubu,APC,29,1500,2.5,National,Phone interview
+2024-12,NOIPolls,Atiku Abubakar,PDP,32,1500,2.5,National,Phone interview
+2024-12,NOIPolls,Peter Obi,LP,22,1500,2.5,National,Phone interview
+2024-12,NOIPolls,Undecided,,17,1500,2.5,National,Phone interview
+2025-03,Afrobarometer,Bola Tinubu,APC,27,1800,2.3,National,Face-to-face
+2025-03,Afrobarometer,Atiku Abubakar,PDP,33,1800,2.3,National,Face-to-face
+2025-03,Afrobarometer,Peter Obi,LP,23,1800,2.3,National,Face-to-face
+2025-03,Afrobarometer,Undecided,,17,1800,2.3,National,Face-to-face
+2025-06,NOIPolls,Bola Tinubu,APC,28,1600,2.4,National,Phone interview
+2025-06,NOIPolls,Atiku Abubakar,PDP,34,1600,2.4,National,Phone interview
+2025-06,NOIPolls,Peter Obi,LP,22,1600,2.4,National,Phone interview
+2025-06,NOIPolls,Undecided,,16,1600,2.4,National,Phone interview
+2025-09,SBM Intelligence,Bola Tinubu,APC,26,1100,3.0,National,Mixed
+2025-09,SBM Intelligence,Atiku Abubakar,PDP,35,1100,3.0,National,Mixed
+2025-09,SBM Intelligence,Peter Obi,LP,24,1100,3.0,National,Mixed
+2025-09,SBM Intelligence,Undecided,,15,1100,3.0,National,Mixed
+2025-12,NOIPolls,Bola Tinubu,APC,25,1700,2.4,National,Phone interview
+2025-12,NOIPolls,Atiku Abubakar,PDP,36,1700,2.4,National,Phone interview
+2025-12,NOIPolls,Peter Obi,LP,24,1700,2.4,National,Phone interview
+2025-12,NOIPolls,Undecided,,15,1700,2.4,National,Phone interview
+2024-01,NOIPolls,Bola Tinubu,APC,19,400,4.9,South-West,Phone interview
+2024-01,NOIPolls,Atiku Abubakar,PDP,22,400,4.9,South-West,Phone interview
+2024-01,NOIPolls,Peter Obi,LP,38,400,4.9,South-West,Phone interview
+2024-01,NOIPolls,Bola Tinubu,APC,42,400,4.9,North-West,Phone interview
+2024-01,NOIPolls,Atiku Abubakar,PDP,38,400,4.9,North-West,Phone interview
+2024-01,NOIPolls,Peter Obi,LP,4,400,4.9,North-West,Phone interview
+2024-01,NOIPolls,Bola Tinubu,APC,12,400,4.9,South-East,Phone interview
+2024-01,NOIPolls,Atiku Abubakar,PDP,14,400,4.9,South-East,Phone interview
+2024-01,NOIPolls,Peter Obi,LP,67,400,4.9,South-East,Phone interview
+2024-01,NOIPolls,Bola Tinubu,APC,22,400,4.9,South-South,Phone interview
+2024-01,NOIPolls,Atiku Abubakar,PDP,37,400,4.9,South-South,Phone interview
+2024-01,NOIPolls,Peter Obi,LP,32,400,4.9,South-South,Phone interview
+2024-01,NOIPolls,Bola Tinubu,APC,36,400,4.9,North-East,Phone interview
+2024-01,NOIPolls,Atiku Abubakar,PDP,47,400,4.9,North-East,Phone interview
+2024-01,NOIPolls,Peter Obi,LP,5,400,4.9,North-East,Phone interview
+2024-01,NOIPolls,Bola Tinubu,APC,34,400,4.9,North-Central,Phone interview
+2024-01,NOIPolls,Atiku Abubakar,PDP,28,400,4.9,North-Central,Phone interview
+2024-01,NOIPolls,Peter Obi,LP,26,400,4.9,North-Central,Phone interview
